@@ -1,0 +1,2301 @@
+[
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ActivityLogController",
+    "Method": "GetActivityLogs",
+    "RelativePath": "api/ActivityLog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ActivityLogController",
+    "Method": "CreateActivityLog",
+    "RelativePath": "api/ActivityLog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "activityLogDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateActivityLogDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ActivityLogController",
+    "Method": "GetActivityLog",
+    "RelativePath": "api/ActivityLog/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ActivityLogController",
+    "Method": "DeleteActivityLog",
+    "RelativePath": "api/ActivityLog/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetAllActivityLogs",
+    "RelativePath": "api/Admin/all-activity-logs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetAllDevices",
+    "RelativePath": "api/Admin/all-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "Analytics",
+    "RelativePath": "api/Admin/analytics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetActivitySummary",
+    "RelativePath": "api/Admin/analytics/activity-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetDeviceMetrics",
+    "RelativePath": "api/Admin/analytics/device-metrics",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetEnergySummary",
+    "RelativePath": "api/Admin/analytics/energy-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetDangerUsers",
+    "RelativePath": "api/Admin/danger-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/Admin/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "DeletedUsers",
+    "RelativePath": "api/Admin/deleted-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "DeletionHistory",
+    "RelativePath": "api/Admin/deletion-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "DeviceTypes",
+    "RelativePath": "api/Admin/device-types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetEnergyOverview",
+    "RelativePath": "api/Admin/energy/overview",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetEnergyReport",
+    "RelativePath": "api/Admin/energy/report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "period",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetFailedLogins",
+    "RelativePath": "api/Admin/failed-logins",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "RecentUsers",
+    "RelativePath": "api/Admin/recent-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetReports",
+    "RelativePath": "api/Admin/reports",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GenerateReport",
+    "RelativePath": "api/Admin/reports/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.Controllers.AdminController\u002BReportRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetSettings",
+    "RelativePath": "api/Admin/settings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "UpdateSettings",
+    "RelativePath": "api/Admin/settings",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatedSettings",
+        "Type": "System.Collections.Generic.List\u00601[[SmartHomeAutomation.Models.SystemSetting, SmartHomeAutomation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetSystemHealth",
+    "RelativePath": "api/Admin/system-health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "TopUsers",
+    "RelativePath": "api/Admin/top-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "UserActivity",
+    "RelativePath": "api/Admin/user-activity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "UserGrowth",
+    "RelativePath": "api/Admin/user-growth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetUsers",
+    "RelativePath": "api/Admin/users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Admin/users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.AdminCreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetAllUserDetails",
+    "RelativePath": "api/Admin/users-details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetUser",
+    "RelativePath": "api/Admin/users/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Admin/users/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.DeleteUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "UserDevices",
+    "RelativePath": "api/Admin/users/{id}/devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "UserLoginHistory",
+    "RelativePath": "api/Admin/users/{id}/login-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "UpdateUserRole",
+    "RelativePath": "api/Admin/users/{id}/role",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.Controllers.AdminController\u002BUpdateUserRoleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "UnlockUser",
+    "RelativePath": "api/Admin/users/{id}/unlock",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetVacationSecurityEvents",
+    "RelativePath": "api/Admin/vacation-security-events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AdminController",
+    "Method": "GetVacationUsers",
+    "RelativePath": "api/Admin/vacation-users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIController",
+    "Method": "Chat",
+    "RelativePath": "api/AI/chat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chatDto",
+        "Type": "SmartHomeAutomation.DTOs.AIChatDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIController",
+    "Method": "GetDetectedRoutines",
+    "RelativePath": "api/AI/routines",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "Chat",
+    "RelativePath": "api/AIAssistant/chat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "ClearConversation",
+    "RelativePath": "api/AIAssistant/clear",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "ExecuteCommand",
+    "RelativePath": "api/AIAssistant/command",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.CommandRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "GetContext",
+    "RelativePath": "api/AIAssistant/context",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "Explain",
+    "RelativePath": "api/AIAssistant/explain",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "GetHistory",
+    "RelativePath": "api/AIAssistant/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "GenerateReport",
+    "RelativePath": "api/AIAssistant/report",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.ReportRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIAssistantController",
+    "Method": "StreamChat",
+    "RelativePath": "api/AIAssistant/stream",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIExplainabilityController",
+    "Method": "ClearHistory",
+    "RelativePath": "api/AIExplainability/clear",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AIExplainabilityController",
+    "Method": "Query",
+    "RelativePath": "api/AIExplainability/query",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.ExplainRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AISuggestionController",
+    "Method": "GetSuggestions",
+    "RelativePath": "api/AISuggestion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AISuggestionController",
+    "Method": "AcceptSuggestion",
+    "RelativePath": "api/AISuggestion/{id}/accept",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AISuggestionController",
+    "Method": "GenerateSuggestions",
+    "RelativePath": "api/AISuggestion/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AnalyticsController",
+    "Method": "GetEnergyHistory",
+    "RelativePath": "api/Analytics/energy-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AnalyticsController",
+    "Method": "GetHighestConsumingDevice",
+    "RelativePath": "api/Analytics/highest-consuming-device",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AnalyticsController",
+    "Method": "GetOverview",
+    "RelativePath": "api/Analytics/overview",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AnalyticsController",
+    "Method": "GetPowerByDevice",
+    "RelativePath": "api/Analytics/power-by-device",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AnalyticsController",
+    "Method": "GetPowerByLocation",
+    "RelativePath": "api/Analytics/power-by-location",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AnalyticsController",
+    "Method": "GetPowerByRoom",
+    "RelativePath": "api/Analytics/power-by-room",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "ChangeEmail",
+    "RelativePath": "api/Auth/change-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.ChangeEmailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Auth/change-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/Auth/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.ForgotPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "Logout",
+    "RelativePath": "api/Auth/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "GetCurrentUser",
+    "RelativePath": "api/Auth/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.Controllers.RefreshTokenRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "ResendVerification",
+    "RelativePath": "api/Auth/resend-verification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.ResendVerificationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/Auth/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.ResetPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "SmtpStatus",
+    "RelativePath": "api/Auth/smtp-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "VerifyEmail",
+    "RelativePath": "api/Auth/verify-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.VerifyEmailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AuthController",
+    "Method": "VerifyEmailChange",
+    "RelativePath": "api/Auth/verify-email-change",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.VerifyEmailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AutomationRuleController",
+    "Method": "GetAutomationRules",
+    "RelativePath": "api/AutomationRule",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AutomationRuleController",
+    "Method": "CreateAutomationRule",
+    "RelativePath": "api/AutomationRule",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ruleDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateAutomationRuleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AutomationRuleController",
+    "Method": "GetAutomationRule",
+    "RelativePath": "api/AutomationRule/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AutomationRuleController",
+    "Method": "UpdateAutomationRule",
+    "RelativePath": "api/AutomationRule/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "ruleDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateAutomationRuleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AutomationRuleController",
+    "Method": "DeleteAutomationRule",
+    "RelativePath": "api/AutomationRule/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.AutomationRuleController",
+    "Method": "ToggleAutomationRule",
+    "RelativePath": "api/AutomationRule/{id}/toggle",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DashboardController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/Dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DashboardController",
+    "Method": "GetRecentActivities",
+    "RelativePath": "api/Dashboard/recent-activities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DashboardController",
+    "Method": "GetRecentAlerts",
+    "RelativePath": "api/Dashboard/recent-alerts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DashboardController",
+    "Method": "GetUpcomingMaintenance",
+    "RelativePath": "api/Dashboard/upcoming-maintenance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceController",
+    "Method": "GetDevices",
+    "RelativePath": "api/Device",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceController",
+    "Method": "CreateDevice",
+    "RelativePath": "api/Device",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateDeviceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceController",
+    "Method": "GetDevice",
+    "RelativePath": "api/Device/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceController",
+    "Method": "UpdateDevice",
+    "RelativePath": "api/Device/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "deviceDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateDeviceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceController",
+    "Method": "DeleteDevice",
+    "RelativePath": "api/Device/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceController",
+    "Method": "UpdatePowerConsumption",
+    "RelativePath": "api/Device/{id}/power",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.UpdatePowerConsumptionDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceController",
+    "Method": "UpdateDeviceStatus",
+    "RelativePath": "api/Device/{id}/status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.UpdateDeviceStatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceAlertController",
+    "Method": "GetDeviceAlerts",
+    "RelativePath": "api/DeviceAlert",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceAlertController",
+    "Method": "CreateDeviceAlert",
+    "RelativePath": "api/DeviceAlert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alertDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateDeviceAlertDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceAlertController",
+    "Method": "GetDeviceAlert",
+    "RelativePath": "api/DeviceAlert/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceAlertController",
+    "Method": "DeleteDeviceAlert",
+    "RelativePath": "api/DeviceAlert/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceAlertController",
+    "Method": "MarkAlertAsRead",
+    "RelativePath": "api/DeviceAlert/{id}/read",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceHealthController",
+    "Method": "GetAllDevices",
+    "RelativePath": "api/DeviceHealth/all-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceHealthController",
+    "Method": "GetMyDevices",
+    "RelativePath": "api/DeviceHealth/my-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceImageController",
+    "Method": "GetDeviceImages",
+    "RelativePath": "api/DeviceImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceImageController",
+    "Method": "CreateDeviceImage",
+    "RelativePath": "api/DeviceImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateDeviceImageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceImageController",
+    "Method": "GetDeviceImage",
+    "RelativePath": "api/DeviceImage/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceImageController",
+    "Method": "UpdateDeviceImage",
+    "RelativePath": "api/DeviceImage/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "imageDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateDeviceImageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.DeviceImageController",
+    "Method": "DeleteDeviceImage",
+    "RelativePath": "api/DeviceImage/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetBillPrediction",
+    "RelativePath": "api/EnergyAnalytics/bill-prediction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetCarbonFootprint",
+    "RelativePath": "api/EnergyAnalytics/carbon-footprint",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetCostComparison",
+    "RelativePath": "api/EnergyAnalytics/cost-comparison",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetDailyTrend",
+    "RelativePath": "api/EnergyAnalytics/daily-trend",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetDashboard",
+    "RelativePath": "api/EnergyAnalytics/dashboard",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetDeviceUsage",
+    "RelativePath": "api/EnergyAnalytics/device-usage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "EnergyAdvisor",
+    "RelativePath": "api/EnergyAnalytics/energy-advisor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetMonthlyTrend",
+    "RelativePath": "api/EnergyAnalytics/monthly-trend",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetEnergyRecommendations",
+    "RelativePath": "api/EnergyAnalytics/recommendations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetTopDevices",
+    "RelativePath": "api/EnergyAnalytics/top-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyAnalyticsController",
+    "Method": "GetUsageShare",
+    "RelativePath": "api/EnergyAnalytics/usage-share",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyGoalController",
+    "Method": "SetGoal",
+    "RelativePath": "api/EnergyGoal",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "goal",
+        "Type": "SmartHomeAutomation.Models.EnergyGoal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyGoalController",
+    "Method": "GetGoal",
+    "RelativePath": "api/EnergyGoal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyUsageController",
+    "Method": "GetEnergyUsage",
+    "RelativePath": "api/EnergyUsage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyUsageController",
+    "Method": "GetEnergyChart",
+    "RelativePath": "api/EnergyUsage/chart/{deviceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyUsageController",
+    "Method": "GetDailyEnergyUsage",
+    "RelativePath": "api/EnergyUsage/daily",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyUsageController",
+    "Method": "GetDeviceEnergyUsage",
+    "RelativePath": "api/EnergyUsage/device/{deviceId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deviceId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.EnergyUsageController",
+    "Method": "GetEnergySummary",
+    "RelativePath": "api/EnergyUsage/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.FavoriteDeviceController",
+    "Method": "GetFavoriteDevices",
+    "RelativePath": "api/FavoriteDevice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.FavoriteDeviceController",
+    "Method": "AddFavoriteDevice",
+    "RelativePath": "api/FavoriteDevice",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "favoriteDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateFavoriteDeviceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.FavoriteDeviceController",
+    "Method": "GetFavoriteDevice",
+    "RelativePath": "api/FavoriteDevice/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.FavoriteDeviceController",
+    "Method": "DeleteFavoriteDevice",
+    "RelativePath": "api/FavoriteDevice/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.LoginHistoryController",
+    "Method": "GetLoginHistory",
+    "RelativePath": "api/LoginHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.LoginHistoryController",
+    "Method": "GetRecentLoginHistory",
+    "RelativePath": "api/LoginHistory/recent",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.MaintenanceController",
+    "Method": "AddMaintenance",
+    "RelativePath": "api/Maintenance",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "SmartHomeAutomation.Models.MaintenanceSchedule",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.MaintenanceController",
+    "Method": "UpdateMaintenance",
+    "RelativePath": "api/Maintenance/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "SmartHomeAutomation.Models.MaintenanceSchedule",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.MaintenanceController",
+    "Method": "GetMaintenanceTracker",
+    "RelativePath": "api/Maintenance/tracker",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.MonthlyReportController",
+    "Method": "GetMonthlyReport",
+    "RelativePath": "api/MonthlyReport",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SmartHomeAutomation.DTOs.MonthlyReportDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.NotificationController",
+    "Method": "GetNotifications",
+    "RelativePath": "api/Notification",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.NotificationController",
+    "Method": "CreateNotification",
+    "RelativePath": "api/Notification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "notificationDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateNotificationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.NotificationController",
+    "Method": "GetNotification",
+    "RelativePath": "api/Notification/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.NotificationController",
+    "Method": "DeleteNotification",
+    "RelativePath": "api/Notification/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.NotificationController",
+    "Method": "MarkAsRead",
+    "RelativePath": "api/Notification/{id}/read",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.NotificationController",
+    "Method": "GetUnreadNotificationCount",
+    "RelativePath": "api/Notification/unread-count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.PredictiveMaintenanceController",
+    "Method": "GetAllPredictions",
+    "RelativePath": "api/PredictiveMaintenance/all-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.PredictiveMaintenanceController",
+    "Method": "GetMyPredictions",
+    "RelativePath": "api/PredictiveMaintenance/my-devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ProfileController",
+    "Method": "GetProfile",
+    "RelativePath": "api/Profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ProfileController",
+    "Method": "UpdateProfile",
+    "RelativePath": "api/Profile",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "profileDto",
+        "Type": "SmartHomeAutomation.DTOs.UpdateProfileDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ProfileController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Profile/change-password",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "passwordDto",
+        "Type": "SmartHomeAutomation.DTOs.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ReportController",
+    "Method": "Generate",
+    "RelativePath": "api/Report/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.ReportGenerateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ReportController",
+    "Method": "GetReportTypes",
+    "RelativePath": "api/Report/types",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.ReportsController",
+    "Method": "MonthlyReport",
+    "RelativePath": "api/Reports/monthly",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.RoomController",
+    "Method": "GetRooms",
+    "RelativePath": "api/Room",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.RoomController",
+    "Method": "CreateRoom",
+    "RelativePath": "api/Room",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roomDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateRoomDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.RoomController",
+    "Method": "GetRoom",
+    "RelativePath": "api/Room/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.RoomController",
+    "Method": "UpdateRoom",
+    "RelativePath": "api/Room/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "roomDto",
+        "Type": "SmartHomeAutomation.DTOs.CreateRoomDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.RoomController",
+    "Method": "DeleteRoom",
+    "RelativePath": "api/Room/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.RoomController",
+    "Method": "GetRoomDevices",
+    "RelativePath": "api/Room/{id}/devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.SecurityController",
+    "Method": "GetLoginActivity",
+    "RelativePath": "api/Security/login-activity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.SecurityController",
+    "Method": "GetSecurityRisk",
+    "RelativePath": "api/Security/risk",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.SecurityController",
+    "Method": "GetSecuritySummary",
+    "RelativePath": "api/Security/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.TranslationController",
+    "Method": "BatchTranslate",
+    "RelativePath": "api/Translation/batch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.BatchTranslationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.TranslationController",
+    "Method": "Translate",
+    "RelativePath": "api/Translation/translate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SmartHomeAutomation.Controllers.TranslationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.UserController",
+    "Method": "MyDevices",
+    "RelativePath": "api/User/devices",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.UserController",
+    "Method": "LoginHistory",
+    "RelativePath": "api/User/login-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.UserController",
+    "Method": "MyNotifications",
+    "RelativePath": "api/User/notifications",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.UserController",
+    "Method": "GetProfile",
+    "RelativePath": "api/User/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.VacationModeController",
+    "Method": "DisableVacationMode",
+    "RelativePath": "api/VacationMode/disable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.VacationModeController",
+    "Method": "EnableVacationMode",
+    "RelativePath": "api/VacationMode/enable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.VacationModeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.VacationModeController",
+    "Method": "SecurityEvent",
+    "RelativePath": "api/VacationMode/security-event",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.VacationSecurityEventDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.VacationModeController",
+    "Method": "GetVacationSummary",
+    "RelativePath": "api/VacationMode/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.VoiceController",
+    "Method": "ProcessVoiceCommand",
+    "RelativePath": "api/Voice/process",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SmartHomeAutomation.DTOs.VoiceCommandDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.WeatherController",
+    "Method": "GetAirQuality",
+    "RelativePath": "api/Weather/air-quality",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.WeatherController",
+    "Method": "GetWeatherAlerts",
+    "RelativePath": "api/Weather/alerts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.WeatherController",
+    "Method": "GetAutomationSuggestions",
+    "RelativePath": "api/Weather/automation-suggestions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.WeatherController",
+    "Method": "GetCurrentWeather",
+    "RelativePath": "api/Weather/current",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.WeatherController",
+    "Method": "GetDailyForecast",
+    "RelativePath": "api/Weather/daily",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.WeatherController",
+    "Method": "GetHourlyForecast",
+    "RelativePath": "api/Weather/hourly",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmartHomeAutomation.Controllers.WeatherController",
+    "Method": "GetWeatherSummary",
+    "RelativePath": "api/Weather/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "latitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "longitude",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

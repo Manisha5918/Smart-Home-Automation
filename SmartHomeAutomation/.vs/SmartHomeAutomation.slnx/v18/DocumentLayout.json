@@ -1,0 +1,2022 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\energyanalyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\energyanalyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\aiexplainabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\aiexplainabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\memoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\memoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\conversationmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\conversationmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\commandparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\commandparserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\aisuggestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\aisuggestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\devicehealthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\devicehealthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\ollamaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\translationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\translationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\voicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\voicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\aichatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\aichatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\voicecommanddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\voicecommanddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\voicecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\voicecommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\voicecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\voicecommandrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\favoritedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\favoritedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\monthlyreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\monthlyreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\monthlyreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\monthlyreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\translationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\energygoalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\energygoalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\energygoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\energygoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\energyadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\energyadvisorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\homeintelligenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\homeintelligenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\maintenanceschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\vacationmodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\vacationmodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\devicehealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\devicehealthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\devicealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\devicealert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\vacationsecurityeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\vacationsecurityeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\usernotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\vacationmodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\vacationmodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\vacationdevicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\vacationdevicestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\vacationmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\vacationmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\maintenanceschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\maintenanceschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\predictivemaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\predictivemaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\energyanomalyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\energyanomalyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\useractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\userdeletionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\userdeletionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\automationschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\automationschedulerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\automationruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\automationruleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\aisuggestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\aisuggestioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\automationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\automationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\aisuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\aisuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\routinelearningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\routinelearningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\detectedroutinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\detectedroutinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\aisuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\aisuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createautomationruledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createautomationruledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\automationrulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\automationrulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\aiautomationsuggestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\aiautomationsuggestionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\activitylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\devicealertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\devicealertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\routinesuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\routinesuggestiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\services\\securityriskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:services\\securityriskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\securityriskresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\securityriskresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createdevicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createdevicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\updateprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\energyusagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\energyusagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\favoritedevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\favoritedevicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\deviceimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\deviceimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\energyusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\energyusage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\controllers\\loginhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:controllers\\loginhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\loginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\loginhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createenergyusagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createenergyusagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\updatepowerconsumptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\updatepowerconsumptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\updatedevicestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\updatedevicestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createdeviceimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createdeviceimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\deviceimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\deviceimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createmaintenancescheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createmaintenancescheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createdevicealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createdevicealertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createactivitylogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createactivitylogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\createfavoritedevicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\createfavoritedevicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:helpers\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260710173516_adddevicealerttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260710173516_adddevicealerttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260710152856_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260710152856_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260710162701_adddevicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260710162701_adddevicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260711072536_addactivitylogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260711072536_addactivitylogtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260711072000_addfavoritedevicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260711072000_addfavoritedevicetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260711070812_adddeviceimagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260711070812_adddeviceimagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260711063955_addnotificationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260711063955_addnotificationtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260712165012_addaccountlockoutfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260712165012_addaccountlockoutfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260712162901_addloginhistorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260712162901_addloginhistorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260712145323_addroomtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260712145323_addroomtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260712144855_addenergyusagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260712144855_addenergyusagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260712143118_addautomationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260712143118_addautomationrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260712072905_fixdeviceimagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260712072905_fixdeviceimagetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260712190019_addroomdevicerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260712190019_addroomdevicerelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260713085552_updateautomationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260713085552_updateautomationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260713082537_addaisuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260713082537_addaisuggestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260713054117_adddevicestatustoactivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260713054117_adddevicestatustoactivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714070415_addadminfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714070415_addadminfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714061555_updatelogintracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714061555_updatelogintracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714102806_addusernotificationfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714102806_addusernotificationfields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714094747_addvacationmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714094747_addvacationmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714090139_adddevicehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714090139_adddevicehealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714080659_adduseractivitytracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714080659_adduseractivitytracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714172218_addenergygoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714172218_addenergygoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260714165605_addmaintenancetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260714165605_addmaintenancetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|c:\\dotnet internship\\backend\\smarthomeautomation\\migrations\\20260716053926_addconversationmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C704EB1-4A4E-6259-7979-666104351FA4}|SmartHomeAutomation.csproj|solutionrelative:migrations\\20260716053926_addconversationmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 106,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:18:43.658Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AIExplainabilityController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AIExplainabilityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AIExplainabilityController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AIExplainabilityController.cs",
+              "RelativeToolTip": "Controllers\\AIExplainabilityController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T10:38:00.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20260716053926_AddConversationMemory.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260716053926_AddConversationMemory.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260716053926_AddConversationMemory.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260716053926_AddConversationMemory.cs",
+              "RelativeToolTip": "Migrations\\20260716053926_AddConversationMemory.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:39:28.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemoryService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\MemoryService.cs",
+              "RelativeDocumentMoniker": "Services\\MemoryService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\MemoryService.cs",
+              "RelativeToolTip": "Services\\MemoryService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:24:34.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConversationMemory.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\ConversationMemory.cs",
+              "RelativeDocumentMoniker": "Models\\ConversationMemory.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\ConversationMemory.cs",
+              "RelativeToolTip": "Models\\ConversationMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T05:23:30.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CommandParserService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\CommandParserService.cs",
+              "RelativeDocumentMoniker": "Services\\CommandParserService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\CommandParserService.cs",
+              "RelativeToolTip": "Services\\CommandParserService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T03:35:18.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VoiceController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\VoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VoiceController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\VoiceController.cs",
+              "RelativeToolTip": "Controllers\\VoiceController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T03:33:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VoiceCommandDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\VoiceCommandDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VoiceCommandDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\VoiceCommandDto.cs",
+              "RelativeToolTip": "DTOs\\VoiceCommandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T03:33:04.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VoiceCommandResponse.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VoiceCommandResponse.cs",
+              "RelativeDocumentMoniker": "Models\\VoiceCommandResponse.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VoiceCommandResponse.cs",
+              "RelativeToolTip": "Models\\VoiceCommandResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T03:28:57.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VoiceCommandRequest.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VoiceCommandRequest.cs",
+              "RelativeDocumentMoniker": "Models\\VoiceCommandRequest.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VoiceCommandRequest.cs",
+              "RelativeToolTip": "Models\\VoiceCommandRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T03:28:18.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MonthlyReportController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\MonthlyReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MonthlyReportController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\MonthlyReportController.cs",
+              "RelativeToolTip": "Controllers\\MonthlyReportController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:09:00.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MonthlyReportDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\MonthlyReportDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\MonthlyReportDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\MonthlyReportDto.cs",
+              "RelativeToolTip": "DTOs\\MonthlyReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T10:08:37.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TranslationController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\TranslationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TranslationController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\TranslationController.cs",
+              "RelativeToolTip": "Controllers\\TranslationController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:33:26.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TranslationService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\TranslationService.cs",
+              "RelativeDocumentMoniker": "Services\\TranslationService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\TranslationService.cs",
+              "RelativeToolTip": "Services\\TranslationService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T08:31:07.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwGQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:28:32.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnergyGoalController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\EnergyGoalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnergyGoalController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\EnergyGoalController.cs",
+              "RelativeToolTip": "Controllers\\EnergyGoalController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:25:18.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "20260714172218_AddEnergyGoal.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714172218_AddEnergyGoal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714172218_AddEnergyGoal.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714172218_AddEnergyGoal.cs",
+              "RelativeToolTip": "Migrations\\20260714172218_AddEnergyGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:22:18.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EnergyGoal.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\EnergyGoal.cs",
+              "RelativeDocumentMoniker": "Models\\EnergyGoal.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\EnergyGoal.cs",
+              "RelativeToolTip": "Models\\EnergyGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:17:33.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EnergyAdvisorService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\EnergyAdvisorService.cs",
+              "RelativeDocumentMoniker": "Services\\EnergyAdvisorService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\EnergyAdvisorService.cs",
+              "RelativeToolTip": "Services\\EnergyAdvisorService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T17:04:23.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "20260714165605_AddMaintenanceTracker.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714165605_AddMaintenanceTracker.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714165605_AddMaintenanceTracker.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714165605_AddMaintenanceTracker.cs",
+              "RelativeToolTip": "Migrations\\20260714165605_AddMaintenanceTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T16:56:06.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Controllers\\MaintenanceController.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAwL8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T16:25:38.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnergyAnalyticsController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\EnergyAnalyticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnergyAnalyticsController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\EnergyAnalyticsController.cs",
+              "RelativeToolTip": "Controllers\\EnergyAnalyticsController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T15:28:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VacationModeController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\VacationModeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VacationModeController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\VacationModeController.cs",
+              "RelativeToolTip": "Controllers\\VacationModeController.cs",
+              "ViewState": "AgIAACsCAAAAAAAAAAAuwDsCAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T15:03:06.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "VacationSecurityEventDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\VacationSecurityEventDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VacationSecurityEventDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\VacationSecurityEventDto.cs",
+              "RelativeToolTip": "DTOs\\VacationSecurityEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:52:26.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20260714102806_AddUserNotificationFields.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714102806_AddUserNotificationFields.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714102806_AddUserNotificationFields.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714102806_AddUserNotificationFields.cs",
+              "RelativeToolTip": "Migrations\\20260714102806_AddUserNotificationFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T10:28:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserNotification.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\UserNotification.cs",
+              "RelativeDocumentMoniker": "Models\\UserNotification.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\UserNotification.cs",
+              "RelativeToolTip": "Models\\UserNotification.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:58:29.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20260714094747_AddVacationMode.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714094747_AddVacationMode.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714094747_AddVacationMode.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714094747_AddVacationMode.cs",
+              "RelativeToolTip": "Migrations\\20260714094747_AddVacationMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:47:48.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VacationModeDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\VacationModeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\VacationModeDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\VacationModeDto.cs",
+              "RelativeToolTip": "DTOs\\VacationModeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:47:08.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VacationDeviceState.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VacationDeviceState.cs",
+              "RelativeDocumentMoniker": "Models\\VacationDeviceState.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VacationDeviceState.cs",
+              "RelativeToolTip": "Models\\VacationDeviceState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:41:04.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VacationMode.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VacationMode.cs",
+              "RelativeDocumentMoniker": "Models\\VacationMode.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\VacationMode.cs",
+              "RelativeToolTip": "Models\\VacationMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:40:38.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PredictiveMaintenanceService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\PredictiveMaintenanceService.cs",
+              "RelativeDocumentMoniker": "Services\\PredictiveMaintenanceService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\PredictiveMaintenanceService.cs",
+              "RelativeToolTip": "Services\\PredictiveMaintenanceService.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAswBEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:21:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeviceHealthController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceHealthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceHealthController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceHealthController.cs",
+              "RelativeToolTip": "Controllers\\DeviceHealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:15:29.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeviceHealthService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\DeviceHealthService.cs",
+              "RelativeDocumentMoniker": "Services\\DeviceHealthService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\DeviceHealthService.cs",
+              "RelativeToolTip": "Services\\DeviceHealthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:02:51.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20260714090139_AddDeviceHealth.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714090139_AddDeviceHealth.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714090139_AddDeviceHealth.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714090139_AddDeviceHealth.cs",
+              "RelativeToolTip": "Migrations\\20260714090139_AddDeviceHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:01:39.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EnergyAnomalyService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\EnergyAnomalyService.cs",
+              "RelativeDocumentMoniker": "Services\\EnergyAnomalyService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\EnergyAnomalyService.cs",
+              "RelativeToolTip": "Services\\EnergyAnomalyService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:48:05.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:21:59.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20260714080659_AddUserActivityTracking.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714080659_AddUserActivityTracking.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714080659_AddUserActivityTracking.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714080659_AddUserActivityTracking.cs",
+              "RelativeToolTip": "Migrations\\20260714080659_AddUserActivityTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:07:00.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "20260714070415_AddAdminFeatures.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714070415_AddAdminFeatures.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714070415_AddAdminFeatures.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714070415_AddAdminFeatures.cs",
+              "RelativeToolTip": "Migrations\\20260714070415_AddAdminFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T07:04:15.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DeleteUserDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\DeleteUserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DeleteUserDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\DeleteUserDto.cs",
+              "RelativeToolTip": "DTOs\\DeleteUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:55:29.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserDeletionHistory.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\UserDeletionHistory.cs",
+              "RelativeDocumentMoniker": "Models\\UserDeletionHistory.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\UserDeletionHistory.cs",
+              "RelativeToolTip": "Models\\UserDeletionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:28:28.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "20260714061555_UpdateLoginTracking.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714061555_UpdateLoginTracking.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260714061555_UpdateLoginTracking.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260714061555_UpdateLoginTracking.cs",
+              "RelativeToolTip": "Migrations\\20260714061555_UpdateLoginTracking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:15:56.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\UserActivity.cs",
+              "RelativeDocumentMoniker": "Models\\UserActivity.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\UserActivity.cs",
+              "RelativeToolTip": "Models\\UserActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T06:05:15.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AutomationSchedulerService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AutomationSchedulerService.cs",
+              "RelativeDocumentMoniker": "Services\\AutomationSchedulerService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AutomationSchedulerService.cs",
+              "RelativeToolTip": "Services\\AutomationSchedulerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T10:34:40.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DetectedRoutineDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\DetectedRoutineDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\DetectedRoutineDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\DetectedRoutineDto.cs",
+              "RelativeToolTip": "DTOs\\DetectedRoutineDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T09:27:13.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AISuggestionService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AISuggestionService.cs",
+              "RelativeDocumentMoniker": "Services\\AISuggestionService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AISuggestionService.cs",
+              "RelativeToolTip": "Services\\AISuggestionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T09:04:42.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AISuggestionDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\AISuggestionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AISuggestionDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\AISuggestionDto.cs",
+              "RelativeToolTip": "DTOs\\AISuggestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T09:04:23.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "20260713085552_UpdateAutomationRule.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260713085552_UpdateAutomationRule.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260713085552_UpdateAutomationRule.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260713085552_UpdateAutomationRule.cs",
+              "RelativeToolTip": "Migrations\\20260713085552_UpdateAutomationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T08:55:53.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AISuggestionController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AISuggestionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AISuggestionController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AISuggestionController.cs",
+              "RelativeToolTip": "Controllers\\AISuggestionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T08:26:26.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AIAutomationSuggestionService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AIAutomationSuggestionService.cs",
+              "RelativeDocumentMoniker": "Services\\AIAutomationSuggestionService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AIAutomationSuggestionService.cs",
+              "RelativeToolTip": "Services\\AIAutomationSuggestionService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T08:26:03.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20260713082537_AddAISuggestion.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260713082537_AddAISuggestion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260713082537_AddAISuggestion.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260713082537_AddAISuggestion.cs",
+              "RelativeToolTip": "Migrations\\20260713082537_AddAISuggestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T08:25:37.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AISuggestion.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\AISuggestion.cs",
+              "RelativeDocumentMoniker": "Models\\AISuggestion.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\AISuggestion.cs",
+              "RelativeToolTip": "Models\\AISuggestion.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA/wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T08:24:39.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoutineLearningService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\RoutineLearningService.cs",
+              "RelativeDocumentMoniker": "Services\\RoutineLearningService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\RoutineLearningService.cs",
+              "RelativeToolTip": "Services\\RoutineLearningService.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAIwMkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T06:43:42.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "20260713054117_AddDeviceStatusToActivityLog.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260713054117_AddDeviceStatusToActivityLog.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260713054117_AddDeviceStatusToActivityLog.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260713054117_AddDeviceStatusToActivityLog.cs",
+              "RelativeToolTip": "Migrations\\20260713054117_AddDeviceStatusToActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T05:41:17.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RoutineSuggestionDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\RoutineSuggestionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RoutineSuggestionDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\RoutineSuggestionDto.cs",
+              "RelativeToolTip": "DTOs\\RoutineSuggestionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T05:40:00.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "Controllers\\SecurityController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T05:21:24.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SecurityRiskService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\SecurityRiskService.cs",
+              "RelativeDocumentMoniker": "Services\\SecurityRiskService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\SecurityRiskService.cs",
+              "RelativeToolTip": "Services\\SecurityRiskService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T05:20:38.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "SecurityRiskResultDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\SecurityRiskResultDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\SecurityRiskResultDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\SecurityRiskResultDto.cs",
+              "RelativeToolTip": "DTOs\\SecurityRiskResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T05:20:07.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AIController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AIController.cs",
+              "RelativeToolTip": "Controllers\\AIController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T04:27:49.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeIntelligenceService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\HomeIntelligenceService.cs",
+              "RelativeDocumentMoniker": "Services\\HomeIntelligenceService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\HomeIntelligenceService.cs",
+              "RelativeToolTip": "Services\\HomeIntelligenceService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwF4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T04:26:18.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OllamaService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\OllamaService.cs",
+              "RelativeDocumentMoniker": "Services\\OllamaService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\OllamaService.cs",
+              "RelativeToolTip": "Services\\OllamaService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T04:25:16.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AIChatDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\AIChatDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AIChatDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\AIChatDto.cs",
+              "RelativeToolTip": "DTOs\\AIChatDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T04:24:40.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "20260712190019_AddRoomDeviceRelationship.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712190019_AddRoomDeviceRelationship.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712190019_AddRoomDeviceRelationship.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712190019_AddRoomDeviceRelationship.cs",
+              "RelativeToolTip": "Migrations\\20260712190019_AddRoomDeviceRelationship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T19:00:19.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAwwA8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T18:07:39.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20260712165012_AddAccountLockoutFields.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712165012_AddAccountLockoutFields.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712165012_AddAccountLockoutFields.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712165012_AddAccountLockoutFields.cs",
+              "RelativeToolTip": "Migrations\\20260712165012_AddAccountLockoutFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T16:50:12.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20260712162901_AddLoginHistoryTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712162901_AddLoginHistoryTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712162901_AddLoginHistoryTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712162901_AddLoginHistoryTable.cs",
+              "RelativeToolTip": "Migrations\\20260712162901_AddLoginHistoryTable.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T16:29:02.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "LoginHistoryController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\LoginHistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginHistoryController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\LoginHistoryController.cs",
+              "RelativeToolTip": "Controllers\\LoginHistoryController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T16:21:50.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LoginHistory.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\LoginHistory.cs",
+              "RelativeDocumentMoniker": "Models\\LoginHistory.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\LoginHistory.cs",
+              "RelativeToolTip": "Models\\LoginHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T16:14:20.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AutomationRuleService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AutomationRuleService.cs",
+              "RelativeDocumentMoniker": "Services\\AutomationRuleService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Services\\AutomationRuleService.cs",
+              "RelativeToolTip": "Services\\AutomationRuleService.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwKcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T15:05:47.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAUwPYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T15:01:45.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAswOIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:57:20.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ChangePasswordDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\ChangePasswordDto.cs",
+              "RelativeToolTip": "DTOs\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:57:02.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UpdateProfileDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\UpdateProfileDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateProfileDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\UpdateProfileDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:56:48.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "20260712145323_AddRoomTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712145323_AddRoomTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712145323_AddRoomTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712145323_AddRoomTable.cs",
+              "RelativeToolTip": "Migrations\\20260712145323_AddRoomTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:53:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAwwDwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:53:01.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CreateRoomDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateRoomDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateRoomDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateRoomDto.cs",
+              "RelativeToolTip": "DTOs\\CreateRoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:52:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:52:06.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "20260712144855_AddEnergyUsageTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712144855_AddEnergyUsageTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712144855_AddEnergyUsageTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712144855_AddEnergyUsageTable.cs",
+              "RelativeToolTip": "Migrations\\20260712144855_AddEnergyUsageTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:48:55.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EnergyUsageController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\EnergyUsageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnergyUsageController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\EnergyUsageController.cs",
+              "RelativeToolTip": "Controllers\\EnergyUsageController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAswLsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:48:32.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "CreateEnergyUsageDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateEnergyUsageDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateEnergyUsageDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateEnergyUsageDto.cs",
+              "RelativeToolTip": "DTOs\\CreateEnergyUsageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:47:41.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EnergyUsage.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\EnergyUsage.cs",
+              "RelativeDocumentMoniker": "Models\\EnergyUsage.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\EnergyUsage.cs",
+              "RelativeToolTip": "Models\\EnergyUsage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:47:17.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AutomationRuleController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AutomationRuleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutomationRuleController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AutomationRuleController.cs",
+              "RelativeToolTip": "Controllers\\AutomationRuleController.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAgwJkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:39:14.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "20260712143118_AddAutomationRules.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712143118_AddAutomationRules.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712143118_AddAutomationRules.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712143118_AddAutomationRules.cs",
+              "RelativeToolTip": "Migrations\\20260712143118_AddAutomationRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:31:19.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreateAutomationRuleDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateAutomationRuleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateAutomationRuleDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateAutomationRuleDto.cs",
+              "RelativeToolTip": "DTOs\\CreateAutomationRuleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:29:53.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AutomationRule.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\AutomationRule.cs",
+              "RelativeDocumentMoniker": "Models\\AutomationRule.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\AutomationRule.cs",
+              "RelativeToolTip": "Models\\AutomationRule.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T14:29:29.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "20260712072905_FixDeviceImageTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712072905_FixDeviceImageTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260712072905_FixDeviceImageTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260712072905_FixDeviceImageTable.cs",
+              "RelativeToolTip": "Migrations\\20260712072905_FixDeviceImageTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T07:29:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "UpdatePowerConsumptionDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\UpdatePowerConsumptionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdatePowerConsumptionDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\UpdatePowerConsumptionDto.cs",
+              "RelativeToolTip": "DTOs\\UpdatePowerConsumptionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T09:29:53.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "UpdateDeviceStatusDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\UpdateDeviceStatusDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UpdateDeviceStatusDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\UpdateDeviceStatusDto.cs",
+              "RelativeToolTip": "DTOs\\UpdateDeviceStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T09:18:51.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAH8DAAAAAAAAAADwv54DAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T08:58:05.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ActivityLogController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\ActivityLogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActivityLogController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\ActivityLogController.cs",
+              "RelativeToolTip": "Controllers\\ActivityLogController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowIQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:27:10.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "CreateActivityLogDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateActivityLogDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateActivityLogDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateActivityLogDto.cs",
+              "RelativeToolTip": "DTOs\\CreateActivityLogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:26:01.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "20260711072536_AddActivityLogTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711072536_AddActivityLogTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260711072536_AddActivityLogTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711072536_AddActivityLogTable.cs",
+              "RelativeToolTip": "Migrations\\20260711072536_AddActivityLogTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:25:36.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "FavoriteDeviceController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\FavoriteDeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FavoriteDeviceController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\FavoriteDeviceController.cs",
+              "RelativeToolTip": "Controllers\\FavoriteDeviceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:21:55.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "CreateFavoriteDeviceDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateFavoriteDeviceDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateFavoriteDeviceDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateFavoriteDeviceDto.cs",
+              "RelativeToolTip": "DTOs\\CreateFavoriteDeviceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:20:39.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "20260711072000_AddFavoriteDeviceTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711072000_AddFavoriteDeviceTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260711072000_AddFavoriteDeviceTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711072000_AddFavoriteDeviceTable.cs",
+              "RelativeToolTip": "Migrations\\20260711072000_AddFavoriteDeviceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:20:00.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "DeviceImageController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceImageController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceImageController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceImageController.cs",
+              "RelativeToolTip": "Controllers\\DeviceImageController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwGYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:10:53.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CreateDeviceImageDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateDeviceImageDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateDeviceImageDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateDeviceImageDto.cs",
+              "RelativeToolTip": "DTOs\\CreateDeviceImageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:09:43.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "20260711070812_AddDeviceImageTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711070812_AddDeviceImageTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260711070812_AddDeviceImageTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711070812_AddDeviceImageTable.cs",
+              "RelativeToolTip": "Migrations\\20260711070812_AddDeviceImageTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:08:12.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MaintenanceScheduleController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\MaintenanceScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MaintenanceScheduleController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\MaintenanceScheduleController.cs",
+              "RelativeToolTip": "Controllers\\MaintenanceScheduleController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:03:28.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CreateMaintenanceScheduleDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateMaintenanceScheduleDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateMaintenanceScheduleDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateMaintenanceScheduleDto.cs",
+              "RelativeToolTip": "DTOs\\CreateMaintenanceScheduleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:01:49.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CreateDeviceDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateDeviceDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateDeviceDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateDeviceDto.cs",
+              "RelativeToolTip": "DTOs\\CreateDeviceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T06:53:16.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "CreateNotificationDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateNotificationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateNotificationDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateNotificationDto.cs",
+              "RelativeToolTip": "DTOs\\CreateNotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T06:46:36.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAD4v30AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T06:41:58.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20260711063955_AddNotificationTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711063955_AddNotificationTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260711063955_AddNotificationTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260711063955_AddNotificationTable.cs",
+              "RelativeToolTip": "Migrations\\20260711063955_AddNotificationTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T06:39:56.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "CreateDeviceAlertDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateDeviceAlertDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateDeviceAlertDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\CreateDeviceAlertDto.cs",
+              "RelativeToolTip": "DTOs\\CreateDeviceAlertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T06:29:26.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DeviceAlertController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceAlertController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceAlertController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceAlertController.cs",
+              "RelativeToolTip": "Controllers\\DeviceAlertController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T05:57:22.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20260710173516_AddDeviceAlertTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260710173516_AddDeviceAlertTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260710173516_AddDeviceAlertTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260710173516_AddDeviceAlertTable.cs",
+              "RelativeToolTip": "Migrations\\20260710173516_AddDeviceAlertTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T17:35:16.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "20260710162701_AddDeviceTable.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260710162701_AddDeviceTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260710162701_AddDeviceTable.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260710162701_AddDeviceTable.cs",
+              "RelativeToolTip": "Migrations\\20260710162701_AddDeviceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T16:27:01.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T16:16:34.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowHgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T16:12:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAQwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:39:28.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Helpers\\JwtService.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtService.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Helpers\\JwtService.cs",
+              "RelativeToolTip": "Helpers\\JwtService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:32:27.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:32:18.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:32:09.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:31:59.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20260710152856_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260710152856_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260710152856_InitialCreate.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Migrations\\20260710152856_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260710152856_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T15:28:57.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeviceAlert.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\DeviceAlert.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceAlert.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\DeviceAlert.cs",
+              "RelativeToolTip": "Models\\DeviceAlert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:11:54.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FavoriteDevice.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\FavoriteDevice.cs",
+              "RelativeDocumentMoniker": "Models\\FavoriteDevice.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\FavoriteDevice.cs",
+              "RelativeToolTip": "Models\\FavoriteDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:11:46.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "DeviceImage.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\DeviceImage.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceImage.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\DeviceImage.cs",
+              "RelativeToolTip": "Models\\DeviceImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:11:37.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:11:29.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MaintenanceSchedule.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\MaintenanceSchedule.cs",
+              "RelativeDocumentMoniker": "Models\\MaintenanceSchedule.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\MaintenanceSchedule.cs",
+              "RelativeToolTip": "Models\\MaintenanceSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:11:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:11:07.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "Models\\Device.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\Device.cs",
+              "RelativeToolTip": "Models\\Device.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:10:54.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowDQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:10:45.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwEMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T11:10:27.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Dotnet Internship\\Backend\\SmartHomeAutomation\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T11:08:37.997Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
