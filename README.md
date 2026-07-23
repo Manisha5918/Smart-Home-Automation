@@ -72,7 +72,7 @@ The application combines real-time communication, energy analytics, automation, 
 
 ### System Architecture
 
-![Architecture](Images/architecture.png)
+![Architecture](Images/system architecture.png)
 
 ---
 
